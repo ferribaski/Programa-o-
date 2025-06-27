@@ -1,29 +1,27 @@
 body
 {background: color #bdd0f5; }
 text-align: center
-.icemaq 
-{width: 50%;}
 h1
 {color: rgb(9, 9, 89)}
 h2
 {color:rgb(9, 9, 89)}
-.eletrolux
+.electrolux
 {
-height: 100px;
-width: 50px;
+height: 90px;
+width: 150px;
 }
 .brastemp
 {
-height: 100px;
-width: 50px;
+height: 90px;
+width: 150px;
 }
 .consul
 {
-height: 100px;
-width: 50px;
+height: 90px;
+width: 150px;
 }
 .lg
 {
-height: 100px;
-width: 50px;
+height: 90px;
+width: 150px;
 }
