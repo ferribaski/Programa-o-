@@ -2,9 +2,13 @@ body
 {background-color: rgb(24, 166, 168);}
 {text-align: center}
 h1
-{color: rgb(9, 9, 89)}
+{color: rgb(21, 64, 124);}
 h2
-{color:rgb(9, 9, 89)}
+{color: rgb(21, 64, 124);}
+h3
+{color: rgb(21, 64, 124);}
+h4
+{color: rgb(21, 64, 124);}
 .electrolux
 {
 height: 70px;
